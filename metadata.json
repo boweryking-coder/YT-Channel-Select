@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Channel Explorer",
+  "description": "A web application to browse, search, and filter a curated list of YouTube channels. Discover new content by exploring categories, searching for keywords, and sorting results.",
+  "requestFramePermissions": []
+}
